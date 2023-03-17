@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-
+//nicolas quintero
     public class GastosTelefonicos {
         int minutoLocal = 50;
         int minutoLargaDistancia = 1200;
